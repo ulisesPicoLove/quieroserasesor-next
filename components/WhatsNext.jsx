@@ -6,6 +6,7 @@ export default function WhatsNext() {
             <img
                 className={styles["bg"]}
                 src="https://blog.provident.com.mx/wp-content/uploads/2021/12/coins.png"
+                alt='Coins'
             />
             <h2>¿Y ahora qué sigue?</h2>
             <ul>

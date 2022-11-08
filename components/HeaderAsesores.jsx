@@ -6,28 +6,30 @@ export default function HeaderAsesores() {
             <div className={styles["shine-bg"]} />
             <header>
                 <div className={styles["bg"]}>
-                    <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/e-01.png" />
-                    <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/e-02.png" />
-                    <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/e-03.png" />
+                    <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/e-01.png" alt='star'/>
+                    <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/e-02.png" alt='star'/>
+                    <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/e-03.png" alt='star'/>
                     <img
                         className={styles["cloud-01"]}
                         src="https://blog.provident.com.mx/wp-content/uploads/2021/12/nube-01.png"
+                        alt='cloud'
                     />
                     <img
                         className={styles["cloud-02"]}
                         src="https://blog.provident.com.mx/wp-content/uploads/2021/12/nube-01.png"
+                        alt='cloud'
                     />
                 </div>
                 <div className={styles["brand"]}>
                     <img
                         alt="Provident. Únete como Agente Comisionista Independiente"
                         className={styles["cloud"]}
-                        src="https://blog.provident.com.mx/wp-content/uploads/2021/12/nube-01.png"
+                        src="https://blog.provident.com.mx/wp-content/uploads/2021/12/nube-01.png"                        
                     />
                     <img
                         alt="Provident. Únete como Agente Comisionista Independiente"
                         className={styles["logo"]}
-                        src="https://blog.provident.com.mx/wp-content/uploads/2022/04/20220428-asesor-expirience.png"
+                        src="https://blog.provident.com.mx/wp-content/uploads/2022/04/20220428-asesor-expirience.png"                        
                     />
                 </div>
 

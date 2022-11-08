@@ -4,7 +4,7 @@ export default function Benefits() {
     return (
         <div id={styles["beneficios"]}>
             <div className={`${styles["col"]} ${styles["col-left"]}`}>
-                <img src="https://blog.provident.com.mx/wp-content/uploads/2022/04/20220428-que-recibe-un-asesor.png" />
+                <img src="https://blog.provident.com.mx/wp-content/uploads/2022/04/20220428-que-recibe-un-asesor.png" alt='man'/>
             </div>
             <div className={`${styles["col"]} ${styles["col-right"]}`}>
                 <h2>
@@ -19,7 +19,7 @@ export default function Benefits() {
                     <li>
                         Puntos que pueden ser canjeados por increíbles premios en
 
-                        <a href="https://www.soyestrella.com/" target="_blank"> www.soyestrella.com</a>
+                        <a href="https://www.soyestrella.com/" target="_blank" rel="noreferrer"> www.soyestrella.com</a>
                     </li>
                     <li>
                         Pláticas de orientación

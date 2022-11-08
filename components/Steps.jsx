@@ -7,10 +7,12 @@ export default function Steps() {
                 <img
                     className={styles["star-01"]}
                     src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png"
+                    alt='star'
                 />
                 <img
                     className={styles["star-02"]}
                     src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png"
+                    alt='star'
                 />
             </div>
             <h2 className={styles["subtitles-dark-green"]}>¿Qué es ser un Asesor?</h2>
@@ -23,7 +25,7 @@ export default function Steps() {
             <div className={styles["row"]}>
                 <div className={styles["item"]}>
                     <div className={styles["number"]}>
-                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" />
+                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" alt='star'/>                        
                         1
                     </div>
                     <h4>La actividad</h4>
@@ -31,7 +33,7 @@ export default function Steps() {
                 </div>
                 <div className={styles["item"]}>
                     <div className={styles["number"]}>
-                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" />
+                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" alt='star'/>
                         2
                     </div>
                     <h4>El inicio</h4>
@@ -39,7 +41,7 @@ export default function Steps() {
                 </div>
                 <div className={styles["item"]}>
                     <div className={styles["number"]}>
-                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" />
+                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" alt='star'/>
                         3
                     </div>
                     <h4>Día a Día</h4>
@@ -47,7 +49,7 @@ export default function Steps() {
                 </div>
                 <div className={styles["item"]}>
                     <div className={styles["number"]}>
-                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" />
+                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" alt='star'/>
                         4
                     </div>
                     <h4>El nivel</h4>
@@ -57,7 +59,7 @@ export default function Steps() {
                 </div>
                 <div className={styles["item"]}>
                     <div className={styles["number"]}>
-                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" />
+                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" alt='star'/>
                         5
                     </div>
                     <h4>Reconocimiento</h4>
@@ -65,7 +67,7 @@ export default function Steps() {
                 </div>
                 <div className={styles["item"]}>
                     <div className={styles["number"]}>
-                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" />
+                        <img src="https://blog.provident.com.mx/wp-content/uploads/2021/12/star.png" alt='star'/>
                         6
                     </div>
                     <h4>
