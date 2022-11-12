@@ -35,7 +35,7 @@ export default function WhatsNext() {
             </h3>
             <a
                 className={`${styles["cta"]} ${styles["cta-dark"]}`}
-                href="https://forms.office.com/r/qN8MYHaMGN"
+                href="https://forms.office.com/r/6MQ6DzPZFf"
             >
                 Tu camino empieza aquí
             </a>

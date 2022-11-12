@@ -79,7 +79,7 @@ export default function HeaderAsesores() {
                     </div>
                     <a
                         className={styles["cta"]}
-                        href="https://forms.office.com/r/qN8MYHaMGN"
+                        href="https://forms.office.com/r/6MQ6DzPZFf"
                     >
                         ¿Quieres ser Asesor?
                     </a>

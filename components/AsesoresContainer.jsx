@@ -27,7 +27,7 @@ export default function AsesoresRoot({ children }) {
           </li>
           <li>
             <a className={styles["menu-item"]} href="/#actividades-a-realizar">
-              Las actividades a realizar
+              Actividades a Realizar
             </a>
           </li>
           <li>
