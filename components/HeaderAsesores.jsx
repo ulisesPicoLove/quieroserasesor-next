@@ -79,7 +79,7 @@ export default function HeaderAsesores() {
                     </div>
                     <a
                         className={styles["cta"]}
-                        href="https://forms.office.com/r/6MQ6DzPZFf"
+                        href="https://forms.office.com/Pages/ShareFormPage.aspx?id=fwjlo7vpsEWivNALpDA5Y0ZB66nDOM5Nt6AnKUBWyeFUQlVYMk0yV1hSQzdEREVLT0NEVzBTNzQ3WS4u&sharetoken=00bjotM6ORmXFlyX9niF"
                     >
                         ¿Quieres ser Asesor?
                     </a>
