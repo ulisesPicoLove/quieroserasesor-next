@@ -8,6 +8,7 @@ import FooterStarts from '../components/FooterStarts'
 import WhatsNext from '../components/WhatsNext'
 import FooterPrivacy from '../components/FooterPrivacy'
 import Script from 'next/script'
+import Head from 'next/head'
 
 
 export default function AsesoresNewPage() {
@@ -30,6 +31,9 @@ export default function AsesoresNewPage() {
           });
         }}
       />
+      <Head>
+        <title>Inicio | quieroserasesor.mx</title>
+      </Head>
       <AsesoresContainer>
         <HeaderAsesores />
         <Steps />
@@ -38,7 +42,7 @@ export default function AsesoresNewPage() {
         <Benefits />
         <FooterStarts />
         <WhatsNext />
-        <FooterPrivacy/>
+        <FooterPrivacy />
       </AsesoresContainer>
     </>
   )

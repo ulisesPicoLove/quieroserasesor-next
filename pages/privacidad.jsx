@@ -1,6 +1,7 @@
 import AsesoresContainer from '../components/AsesoresContainer'
 import Script from 'next/script'
 import Privacy from '../components/Privacy';
+import Head from 'next/head';
 
 const Privacidad = () => {
     return (
@@ -22,8 +23,11 @@ const Privacidad = () => {
                     });
                 }}
             />
+            <Head>
+                <title>Aviso de privacidad | quieroserasesor.mx</title>
+            </Head>
             <AsesoresContainer>
-                <Privacy/>
+                <Privacy />
             </AsesoresContainer>
         </>
     );
